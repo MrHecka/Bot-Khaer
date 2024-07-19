@@ -1,0 +1,48 @@
+{
+  "name": "bot-khaer",
+  "version": "1.0.0",
+  "description": "Bot Khaer Adalah Bot Islam Yang Insya Allah Berguna Bagi Manusia Untuk Lebih Dekat Dengan Islam",
+  "main": "./koneksi/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./koneksi/index.js"
+  },
+  "keywords": [
+    "bot",
+    "islam",
+    "powered",
+    "by",
+    "baileys"
+  ],
+  "author": "Hamba Allah",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.5",
+    "axios": "^1.4.0",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "clui": "^0.3.6",
+    "figlet": "^1.6.0",
+    "file-type": "^19.2.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.13",
+    "link-preview-js": "^3.0.4",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "node-cron": "^3.0.2",
+    "node-fetch": "^2.6.9",
+    "node-webpmux": "^3.2.0",
+    "parse-ms": "^3.0.0",
+    "path": "^0.12.7",
+    "performance-now": "^2.1.0",
+    "pino": "^8.12.1",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "scrape-youtube": "^2.4.0",
+    "wa-sticker-formatter": "^4.4.4"
+  }
+}
