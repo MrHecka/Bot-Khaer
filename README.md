@@ -73,7 +73,7 @@ node ./koneksi/index.js
 ---------
 
 ## Donasi
-* [`Saweria`](https://saweria.co/MrHecka)
+* [`Saweria`](https://saweria.co/heckayo)
 
 ---------
 
